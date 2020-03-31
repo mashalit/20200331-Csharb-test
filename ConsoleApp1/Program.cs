@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("mashal");
             Console.ReadKey();
 
-            int _verabl001 = 7;
+            int _verabl001 = 10;
             Console.Write( _verabl001);
 
             Console.WriteLine("");
